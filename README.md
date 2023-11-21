@@ -1,10 +1,13 @@
 <h1>Hi, I'm Guson (Sonny) <br/><a>Programmer, Software Engineer</a>, </h1><h2>My Goal is to Automate The World Around Me</h2>
 
+[My Portfolio](https://sonnyportfolio-461e6a9ab698.herokuapp.com/)
+
 <h2>👨‍💻 Check out my Projects:</h2>
 
 - <b>Python</b>
   - [WGUPS Package Delivery System](https://github.com/SonnyGU/NearestNeighborAlgo)
   - [Python Scripts Collection](https://github.com/SonnyGU/PythonScipts)
+  - [Pomodoro Timer](https://github.com/SonnyGU/studytimer)
 - <b>Machine Learning AI.</b>
   - [Predict customer churn at ABC Multinational Bank](https://colab.research.google.com/drive/1Vx90sdC41tB-qXFVG_svyK_OD5E8dfdJ)
 - <b>C++</b>
