@@ -8,6 +8,7 @@
   - [WGUPS Package Delivery System](https://github.com/SonnyGU/NearestNeighborAlgo)
   - [Python Scripts Collection](https://github.com/SonnyGU/PythonScipts)
   - [Pomodoro Timer](https://github.com/SonnyGU/studytimer)
+  - [Local Password Manager](https://github.com/SonnyGU/G_Lock)
 - <b>Machine Learning AI.</b>
   - [Predict customer churn at ABC Multinational Bank](https://colab.research.google.com/drive/1Vx90sdC41tB-qXFVG_svyK_OD5E8dfdJ)
 - <b>C++</b>
