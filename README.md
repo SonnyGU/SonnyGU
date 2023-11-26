@@ -5,6 +5,7 @@
 <h2>👨‍💻 Check out my Projects:</h2>
 
 - <b>Python</b>
+  -  [AlphaVantage-CVS-MarketWatcher ](https://github.com/SonnyGU/AlphaVantage-CVS-MarketWatcher)
   - [WGUPS Package Delivery System](https://github.com/SonnyGU/NearestNeighborAlgo)
   - [Python Scripts Collection](https://github.com/SonnyGU/PythonScipts)
   - [Pomodoro Timer](https://github.com/SonnyGU/studytimer)
