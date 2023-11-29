@@ -15,6 +15,8 @@
   - [Predict customer churn at ABC Multinational Bank](https://colab.research.google.com/drive/1Vx90sdC41tB-qXFVG_svyK_OD5E8dfdJ)
 - <b>C++</b>
   - [Class Roster](https://github.com/SonnyGU/ClassRoster)
+- <b>Java</b>
+  - [Drumset Store](https://github.com/SonnyGU/Java-Framework)
 
 <h2>📑Certifications</h2>
   
