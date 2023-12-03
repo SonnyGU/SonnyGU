@@ -6,6 +6,7 @@
 
 - <b>Python</b>
   -  [AlphaVantage-CVS-MarketWatcher ](https://github.com/SonnyGU/AlphaVantage-CVS-MarketWatcher)
+  -  [Billboard Hot 100 Playlist Creator](https://github.com/SonnyGU/SpotifyPlaylistByDate.git)
   - [WGUPS Package Delivery System](https://github.com/SonnyGU/NearestNeighborAlgo)
   - [Python Scripts Collection](https://github.com/SonnyGU/PythonScipts)
   - [Pomodoro Timer](https://github.com/SonnyGU/studytimer)
