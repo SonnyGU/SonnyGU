@@ -1,6 +1,6 @@
 <h1>Hi, I'm Guson (Sonny) <br/><a>Programmer, Software Engineer</a>, </h1><h2>My Goal is to Automate The World Around Me</h2>
 
-[My Portfolio](https://sonnyportfolio-461e6a9ab698.herokuapp.com/)
+
 
 <h2>👨‍💻 Check out my Projects:</h2>
 
